@@ -5,13 +5,10 @@
   Soy una persona que desde que era chico se interesó por la tecnología. La vida me llevó a que recién a los 20 años decidí hacer de este gusto la manera de ganarme la vida. Porque creo que hay muchas cosas que nos pueden gustar en la vida, pero ¿Qué mejor que trabajar de lo que nos gusta?
   Como verán más abajo, a pesar de ya tener un stack de tecnologías que he aprendido y sigo puliendo, estoy trabajando en un proyecto del bootcamp donde estoy estudiando, Henry. Además estoy estudiando tecnologías para el desarrollo de otro proyecto, esta vez grupal, que nos permita graduarnos del bootcamp.
 </p
-
-- 🔭 Actualmente estoy trabajando en [DogyApp](FALTA DEPLOY)
-
+  
+- 🔭 Actualmente estoy trabajando en DogyApp (FALTA DEPLOY)
 - 🌱 Aprendiendo **Next.js, Tailwind**
-
 - 💬 Pregúntame sobre **HTML, Java, JavaScript, MySQL, PostgreSQL**
-
 - 📫 Cómo contactarme **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
