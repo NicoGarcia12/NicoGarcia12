@@ -8,7 +8,6 @@
 - 🔭 Actualmente estoy trabajando en DogyApp (FALTA DEPLOY)
 - 🌱 Aprendiendo **Next.js, Tailwind**
 - 🗣️✍🏼 Tengo un nivel de inglés A2-B1. Me manejo mejor en lo escrito y aún más si es inglés técnico.
-- 💬 Pregúntame sobre **HTML, Java, JavaScript, MySQL, PostgreSQL**
 - 📫 Cómo contactarme **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
 
 <h3 align="left">Contáctame:</h3>
