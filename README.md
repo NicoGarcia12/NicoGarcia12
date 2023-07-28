@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador FullStack de Mendoza, Argentina</h3>
 
 <p>
-  Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando en un proyecto del bootcamp en donde estudio, Henry, y también estoy aprendiendo tecnologías para otro proyecto grupal que nos permitirá graduarnos del bootcamp. Siempre estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
+  Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando en un proyecto del bootcamp en donde estudio, Henry, llamado DoggyApp y también estoy aprendiendo tecnologías para otro proyecto grupal que nos permitirá graduarnos del bootcamp. Siempre estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
 </p
   
 - 🔭 Actualmente estoy trabajando en DogyApp (FALTA DEPLOY)
