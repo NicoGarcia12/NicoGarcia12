@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [DogyApp](FALTA DEPLOY)
 
-- 🌱 Actualmente estoy aprendiendo **Next.js, Tailwind**
+- 🌱 Aprendiendo **Next.js, Tailwind**
 
 - 💬 Pregúntame sobre **HTML, Java, JavaScript, MySQL, PostgreSQL**
 
