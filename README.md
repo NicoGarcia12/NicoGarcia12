@@ -2,7 +2,8 @@
 <h3 align="center">Desarrollador FullStack de Mendoza, Argentina</h3>
 
 <p>
-  Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando en un proyecto del bootcamp en donde estudio, Henry, llamado Doggiepedia y también estoy aprendiendo tecnologías para otro proyecto grupal que nos permitirá graduarnos del bootcamp. En este último haremos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
+  Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? 
+  Actualmente, estoy trabajando en un proyecto del bootcamp en donde estudio, Henry, llamado Doggiepedia y también estoy aprendiendo tecnologías para otro proyecto grupal que nos permitirá graduarnos del bootcamp. En este último haremos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
 </p
   
 - 🔭 Actualmente estoy trabajando en Doggiepedia
