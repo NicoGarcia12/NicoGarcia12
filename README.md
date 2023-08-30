@@ -6,17 +6,17 @@
   Actualmente, estoy trabajando en un proyecto que comencé en un bootcamp en donde estudié, Henry, llamado Doggypedia y también estoy aprendiendo tecnologías que utilicé para otro proyecto grupal que nos pertició graduarnos del bootcamp. En este último hicimos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
 </p
 
-- 🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app/home)
+🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app/home)
 
-- 🌱 Estoy aprendiendo **Tailwind y Next.js**
+🌱 Estoy aprendiendo **Tailwind y Next.js**
 
-- 🗣️✍🏼 Tengo un nivel de inglés **A2-B1. Me manejo mejor en lo escrito y aún más si es inglés técnico**
+🗣️✍🏼 Tengo un nivel de inglés **A2-B1. Me manejo mejor en lo escrito y aún más si es inglés técnico**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://nicolas-garcia.vercel.app/](https://nicolas-garcia.vercel.app/)
+👨‍💻 Todos mis proyectos están disponibles en [https://nicolas-garcia.vercel.app/](https://nicolas-garcia.vercel.app/)
 
-- 💬 Puedes preguntarme sobre **React, Redux, JavaScript, Java, HTML y MySQL**
+💬 Puedes preguntarme sobre **React, Redux, JavaScript, Java, HTML y MySQL**
 
-- 📫 Puedes contactarme en **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
+📫 Puedes contactarme en **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
