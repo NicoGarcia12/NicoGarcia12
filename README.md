@@ -6,7 +6,7 @@
   Actualmente, estoy trabajando en un proyecto que comencé en un bootcamp en donde estudié, Henry, llamado Doggypedia y también estoy aprendiendo tecnologías que utilicé para otro proyecto grupal que nos pertició graduarnos del bootcamp. En este último hicimos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
 </p
 
-🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app/)
+🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app)
 
 🌱 Estoy aprendiendo **Tailwind y Next.js**
 
