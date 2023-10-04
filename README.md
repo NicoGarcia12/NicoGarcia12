@@ -3,7 +3,7 @@
 
 <p>
   Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? 
-  Actualmente, estoy trabajando en las mejores de un proyecto que comencé en un bootcamp en donde estudié, Henry, llamado Doggypedia y también estoy aprendiendo tecnologías que utilicé para otro proyecto grupal que nos permitió graduarnos del bootcamp. En este último hicimos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
+  Actualmente, estoy trabajando en las mejoras de un proyecto que comencé en un bootcamp en donde estudié, Henry, llamado Doggypedia y también estoy aprendiendo tecnologías que utilicé para otro proyecto grupal que nos permitió graduarnos del bootcamp. En este último hicimos uso de la metodología ágil Scrum. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Estoy con ganas de crecer en el mundo IT, aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.
 </p
 
 🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app)
