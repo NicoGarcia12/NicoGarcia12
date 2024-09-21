@@ -1,15 +1,13 @@
 <h1 align="center">HOLA 👋, soy Nicolás</h1>
 <h3 align="center">Desarrollador Fullstack de San Rafael,Mendoza, Argentina</h3>
 
-<p> Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando como Desarrollador en Reyesoft, una empresa de San Rafael Mendoza. En mi tiempo fuera del horario de trabajo busco realizar las mejoras de un proyecto que comencé en un bootcamp en donde estudié, Henry, llamado Doggypedia, que está basado en el stack PERN, y a la vez terminando mi proyecto final de carrera, la Tecnicatura Superior en Desarrollo de Software, llamado Ateneo que está basado en Java y Springboot. Durante mi trabajo en Reyesoft hago uso de la metodología ágil Scrum, también usada previamente en mi proyecto grupal de Henry. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Sigo aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.</p>
+<p> Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando como Desarrollador en Reyesoft, una empresa de San Rafael Mendoza. En mi tiempo fuera del horario de trabajo busco realizar mejoras en mis proyectos personales. Casos como Doggypedia, un proyecto comenzado en un bootcamp que hice, que está basado en el stack PERN, y también avanzando mi proyecto final de la carrera Tecnicatura Superior en Desarrollo de Software, llamado Ateneo donde decidí cambiar el uso de React por el framework Angular. Posteriormente haré el backend también en Java con Spring Boot para reafirmar conocimientos en dichos lenguajes. Durante mi trabajo en Reyesoft hago uso de la metodología ágil Scrum, también usada previamente en mi proyecto grupal de Henry. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Sigo aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.</p>
 
-- 🔭 Estoy trabajando en [Doggypedia y Ateneo](https://doggypedia-pi.vercel.app/home)
+- 🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app/home) y Ateneo
 
 - 🗣️✍🏼 Tengo un nivel de inglés **A2-B1. Me manejo mejor en lo escrito y aún más si es inglés técnico**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://nicolas-garcia.vercel.app/](https://nicolas-garcia.vercel.app/)
-
-- 💬 Puedes preguntarme sobre **React, Angular, Redux, JavaScript, Java, HTML y MySQL**
 
 - 📫 Puedes contactarme en **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
 
