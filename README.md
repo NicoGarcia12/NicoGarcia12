@@ -1,20 +1,34 @@
-<h1 align="center">HOLA 👋, soy Nicolás</h1>
-<h3 align="center">Desarrollador Fullstack de San Rafael,Mendoza, Argentina</h3>
+# Hola, soy Nicolás García Ibañez 👋
 
-<p> Desde que era chico, me interesé por la tecnología. A los 20 años, decidí convertir esta pasión en la forma de ganarme la vida, porque ¿qué mejor que trabajar en lo que nos gusta? Actualmente, estoy trabajando como Desarrollador en Reyesoft, una empresa de San Rafael Mendoza. En mi tiempo fuera del horario de trabajo busco realizar mejoras en mis proyectos personales. Casos como Doggypedia, un proyecto comenzado en un bootcamp que hice, que está basado en el stack PERN, y también avanzando mi proyecto final de la carrera Tecnicatura Superior en Desarrollo de Software, llamado Ateneo donde decidí cambiar el uso de React por el framework Angular. Posteriormente haré el backend también en Java con Spring Boot para reafirmar conocimientos en dichos lenguajes. Durante mi trabajo en Reyesoft hago uso de la metodología ágil Scrum, también usada previamente en mi proyecto grupal de Henry. Trabajo bien en equipo, construyendo relaciones sólidas y manteniendo un ambiente armonioso. Siempre estoy listo para aprender y enfrentar nuevos desafíos. Me adapto rápidamente y resuelvo problemas con agilidad. Sigo aprendiendo cada día y asumiendo nuevos desafíos para mejorar mis habilidades y conocimientos en este fascinante rubro.</p>
+**Frontend Developer con más de 2 años de experiencia, especializado en Angular.**
 
-- 🔭 Estoy trabajando en [Doggypedia](https://doggypedia-pi.vercel.app/home) y Ateneo
+Trabajo en [Reyesoft](https://github.com/reyesoft) desarrollando [Saldoar](https://saldoar.com), una plataforma de intercambio de divisas digitales. Ahí sumé funcionalidades como nuevas instrucciones de pago, actualizaciones en tiempo real con WebSockets y subida de imágenes en el chat, y migré el proyecto de Angular 16 a Angular 20 sin cortar el servicio en producción. También trabajo con componentes reutilizables bajo Atomic Design documentados en Storybook, y sumé funcionalidades a la app móvil en React Native.
 
-- 🗣️✍🏼 Tengo un nivel de inglés **A2-B1. Me manejo mejor en lo escrito y aún más si es inglés técnico**
+Además tengo formación en backend y bases de datos (Node.js, Express, Prisma, PostgreSQL), lo que me permite entender el producto de punta a punta. Soy **Técnico Superior en Desarrollo de Software** (IES 9-012, 2025).
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://nicolas-garcia.vercel.app/](https://nicolas-garcia.vercel.app/)
+📍 San Rafael, Mendoza, Argentina
 
-- 📫 Puedes contactarme en **nicolasgarcia9812@hotmail.com // garcianicolas1298@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nicolas-garcia-ibanez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas abel garcia ibañez" height="30" width="40" /></a>
-</p>
+## 🚀 Proyectos destacados
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="prisma" width="40" height="40"/> </a> </p>
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**Ateneo**](https://github.com/NicoGarcia12/Ateneo) | Sistema de gestión académica para profesores: materias, asistencia con calendario, calificaciones y reportes PDF por email. Proyecto final de la tecnicatura, hecho de punta a punta. | Angular (Clean Architecture + MVVM), Express, Prisma, PostgreSQL/MySQL, JWT |
+| [**DescuentosYa**](https://github.com/CebrasDevs/DescuentosYa) | Plataforma que conecta empresas con socios de clubes para acceder a descuentos. Proyecto en equipo con Scrum. | Next.js, Redux, Tailwind, Express, Prisma, PostgreSQL |
+| [**Doggypedia**](https://github.com/NicoGarcia12/Doggypedia) | SPA para buscar, filtrar, ordenar y crear razas de perros sobre TheDogAPI, con CRUD propio. · [Demo](https://doggypedia-pi.vercel.app) | React, Redux, Express, Sequelize, PostgreSQL |
+
+---
+
+## 🛠️ Tecnologías
+
+**Frontend:** Angular · TypeScript · JavaScript · React · React Native · Redux · HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap
+**Backend:** Node.js · Express · Java · Spring Boot
+**Bases de datos:** PostgreSQL · MySQL · Prisma · Sequelize
+**Herramientas:** Git · GitHub · Bitbucket · Jira · ClickUp · Figma
+
+---
+
+## 📫 Contacto
+
+[Portfolio](https://nicolas-garcia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nicolas-garcia-ibanez/) · nicolasgarcia9812@hotmail.com
