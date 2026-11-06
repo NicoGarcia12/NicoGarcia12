@@ -21,7 +21,7 @@ En [Reyesoft](https://www.linkedin.com/company/reyesoft/) trabajo en [Saldoar](h
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [**Ateneo**](https://github.com/NicoGarcia12/Ateneo) | Sistema de gestión académica para profesores: materias, asistencia con calendario, calificaciones y reportes PDF por email. Proyecto final de la tecnicatura, hecho de punta a punta. | Angular (Clean Architecture + MVVM), Express, Prisma, PostgreSQL/MySQL, JWT |
+| [**Ateneo**](https://github.com/NicoGarcia12/Ateneo) | Sistema de gestión académica para profesores: materias, asistencia con calendario, calificaciones y reportes PDF por email. Proyecto final de la tecnicatura, hecho de punta a punta. | Angular (Clean Architecture + MVVM), Express, Prisma, PostgreSQL/MySQL |
 | [**DescuentosYa**](https://github.com/CebrasDevs/DescuentosYa) | Plataforma que conecta empresas con socios de clubes para acceder a descuentos. Proyecto en equipo con Scrum. | Next.js, Redux, Tailwind, Express, Prisma, PostgreSQL |
 | [**Doggypedia**](https://github.com/NicoGarcia12/Doggypedia) | SPA para buscar, filtrar, ordenar y crear razas de perros sobre TheDogAPI, con CRUD propio. · [Demo](https://doggypedia-pi.vercel.app) | React, Redux, Express, Sequelize, PostgreSQL |
 
