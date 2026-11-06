@@ -32,7 +32,8 @@ En [Reyesoft](https://www.linkedin.com/company/reyesoft/) trabajo en [Saldoar](h
 - **Frontend:** Angular · TypeScript · JavaScript · React · React Native · Redux · HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap
 - **Backend:** Node.js · Express · Java · Spring Boot
 - **Bases de datos:** PostgreSQL · MySQL · Prisma · Sequelize
-- **Herramientas:** Git · GitHub · Bitbucket · Jira · ClickUp · Figma
+- **IA aplicada al desarrollo:** Claude Code · OpenCode · oh-my-pi · MCP
+- **Herramientas:** Git · GitHub · Bitbucket · Jira · ClickUp · Trello · Slack · Figma
 
 ---
 
