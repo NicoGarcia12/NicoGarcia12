@@ -1,10 +1,19 @@
 # Hola, soy Nicolás García Ibañez 👋
 
-**Frontend Developer con más de 2 años de experiencia, especializado en Angular.**
+**Full Stack Developer** con base en San Rafael, Mendoza. Tengo más de 2 años en producción en el frontend de Saldoar (Reyesoft), y proyectos personales que desarrollé en su totalidad, pasando por todo el stack.
 
-Trabajo en [Reyesoft](https://www.linkedin.com/company/reyesoft/) desarrollando [Saldoar](https://saldoar.com), una plataforma de intercambio de divisas digitales. Ahí sumé funcionalidades como nuevas instrucciones de pago, actualizaciones en tiempo real con WebSockets y subida de imágenes en el chat, y migré el proyecto de Angular 16 a Angular 20 sin cortar el servicio en producción. También trabajo con componentes reutilizables bajo Atomic Design documentados en Storybook, y sumé funcionalidades a la app móvil en React Native.
+En [Reyesoft](https://www.linkedin.com/company/reyesoft/) trabajo en [Saldoar](https://saldoar.com), la plataforma de pagos y conversión de saldos digitales:
 
-Además tengo formación en backend y bases de datos (Node.js, Express, Prisma, PostgreSQL), lo que me permite entender el producto de punta a punta. Soy **Técnico Superior en Desarrollo de Software** (IES 9-012, 2025).
+- 🚀 Migré la app de Angular 16 a 20 en producción, sin cortar el servicio.
+- 💳 Desarrollé features clave: instrucciones de pago, actualizaciones en tiempo real con WebSockets y subida de imágenes en el chat.
+- 🎨 Armé componentes reutilizables con Atomic Design, documentados en Storybook, junto al equipo de diseño.
+- 📱 Sumé funcionalidades a la app móvil con React Native.
+
+💼 Hoy, como **Product Builder**, identifico oportunidades de mejora en el producto y las llevo de la idea a la feature funcionando.
+
+🤖 Trabajo a diario con agentes de IA: pienso el problema, delego la implementación con el contexto necesario y reviso cada paso de lo que generan.
+
+🎓 **Técnico Superior en Desarrollo de Software** (IES 9-012) y Bootcamp Full Stack Web Developer en Henry.
 
 ---
 
