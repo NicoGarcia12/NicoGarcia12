@@ -39,6 +39,8 @@ En [Reyesoft](https://www.linkedin.com/company/reyesoft/) trabajo en [Saldoar](h
 
 ## 📫 Contacto
 
+- 📍 Remoto, o relocalización a CABA.
+- 🗣️ Inglés A2, con mejor desempeño en lectura técnica.
 - 🌐 [Portfolio](https://nicolas-garcia.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-garcia-ibanez/)
 - ✉️ nicolasgarcia9812@hotmail.com
